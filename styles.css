@@ -1,0 +1,41 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+.info {
+  background: DarkGray;
+  box-shadow: 0 0 1px rgba(169, 169, 169, 0.25);
+  color: #fff;
+}
+
+.alert {
+  background: DarkRed;
+  box-shadow: 0 0 1px rgba(139, 0, 0, 0.25);
+  color: #fff;
+}
+
+.success {
+  background: DarkGreen;
+  box-shadow: 0 0 1px rgba(0, 100, 0, 0.25);
+  color: #fff;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.bg-dark {
+  background-color: #363d38 !important;
+  color: #c1c8c3 !important;
+}
+
+h3.card-title {
+  color: #c1c8c3;
+}
+
+p.card-text {
+  color: #c1c8c3;
+}/*# sourceMappingURL=styles.css.map */
